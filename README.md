@@ -1,7 +1,7 @@
 
 # Anuj Kumar - Software Testing Expert 🌟
 
-👋 Hello! I'm **Anuj Kumar**, a passionate **Software Testing Expert** with **6.5 years** of experience in **Manual and Automation Testing**. I’ve successfully worked on a range of projects, from **mobile apps** to **enterprise-level web apps**, delivering high-quality software for clients across industries like **International Telecom**, **Insurance**, **Education**,**E-Commerce**, **Beauty & Wellness** and **Government**.
+👋 Hello! I'm **Anuj Kumar**, a passionate **Software Testing Expert** with **8.5 years** of experience in **Manual and Automation Testing**. I’ve successfully worked on a range of projects, from **mobile apps** to **enterprise-level web apps**, delivering high-quality software for clients across industries like **International Telecom**, **Insurance**, **Education**,**E-Commerce**, **Beauty & Wellness** and **Government**.
 
 I specialize in both **Manual Testing** and **creating robust Automation Frameworks** using tools like **Selenium**, **Appium**, and **RestAssured**. I thrive in Agile environments, lead teams, and mentor junior testers to ensure seamless quality throughout the development lifecycle.
 
